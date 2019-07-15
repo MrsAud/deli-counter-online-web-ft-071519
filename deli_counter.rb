@@ -11,5 +11,5 @@ def line(arr)
 end
 
 def take_a_number(line, name)
-  
+  line << name
 end
