@@ -6,6 +6,6 @@ def line(arr)
     arr.each_with_index do |name, index|
       list << "#{index + 1}. #{name}"
     end
-    puts "The line is currently #{list}"
+    puts "The line is currently #{list.to_s}"
   end
 end
