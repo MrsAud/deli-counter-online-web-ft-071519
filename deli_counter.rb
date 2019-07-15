@@ -9,3 +9,7 @@ def line(arr)
     puts "The line is currently: #{list.join(" ")}"
   end
 end
+
+def take_a_number
+  
+end
